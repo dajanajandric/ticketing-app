@@ -1,0 +1,23 @@
+# Backend (Spring Boot / Maven)
+backend/demo/target/
+backend/demo/bin/
+backend/demo/.settings/
+backend/demo/.classpath
+backend/demo/.project
+backend/demo/.factorypath
+backend/demo/src/main/resources/application-local.properties
+
+# Frontend (Node)
+frontend/pozoriste-app/node_modules/
+frontend/pozoriste-app/dist/
+frontend/pozoriste-app/.env.local
+frontend/pozoriste-app/.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
